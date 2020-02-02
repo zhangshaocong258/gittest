@@ -10,5 +10,6 @@ public class Main {
         System.out.println("2");
         System.out.println("master");
         System.out.println("branch");
+        System.out.println("1");
     }
 }
